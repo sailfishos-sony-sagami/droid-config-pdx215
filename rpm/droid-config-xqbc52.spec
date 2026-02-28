@@ -2,9 +2,8 @@
 # Feel free to cleanup this file by removing comments, once you have memorised them ;)
 
 %define device pdx215
-%define vendor sony
+%define rpm_device xqbc52
 
-%define vendor_pretty Sony
 %define device_pretty Xperia 1 III
 
 # Community HW adaptations need this
